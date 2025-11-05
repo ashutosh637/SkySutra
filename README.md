@@ -9,8 +9,9 @@ A beautiful, responsive weather application with elegant UI.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-🚀 Live Demo
-View Live Demo
+
+🚀 Live Demo🔗 **Click Here:** [https://your-username.github.io/repo-name/](http://127.0.0.1:5500/index.html)
+
 
 ## ✨ Features
 
